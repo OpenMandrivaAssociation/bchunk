@@ -10,6 +10,7 @@ Group: Archiving/Other
 License: GPL
 Url: http://hes.iki.fi/bchunk
 Source: %{name}-%{version}.tar.bz2
+Buildroot: %{_tmppath}/%{name}-buildroot
 
 %description
 This is a Unix/C rewrite of the fine BinChunker software for
