@@ -1,6 +1,6 @@
 %define name bchunk
 %define version 1.2.0
-%define release %mkrel 6
+%define release %mkrel 7
 
 Summary: CD image format conversion from bin/cue to iso/cdr
 Name: %{name}
