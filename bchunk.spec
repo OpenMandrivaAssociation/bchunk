@@ -4,7 +4,7 @@ Version: 1.2.2
 Release: 1
 Group: Archiving/Other
 License: GPL
-Url: http://hes.iki.fi/bchunk
+Url: https://hes.iki.fi/bchunk
 Source0: https://github.com/hessu/bchunk/archive/release/%{version}.tar.gz
 
 %description
