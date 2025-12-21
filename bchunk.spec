@@ -7,6 +7,7 @@ License: GPL
 Url: https://hes.iki.fi/bchunk
 Source0: https://github.com/hessu/bchunk/archive/release/%{version}.tar.gz
 
+BuildRequires:	make
 %description
 This is a Unix/C rewrite of the fine BinChunker software for
 some non-Unix system. The non-Unix version of BinChunker
